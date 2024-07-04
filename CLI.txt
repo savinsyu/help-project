@@ -1,0 +1,7 @@
+PowerShell
+
+Get-Process python
+Stop-Process -Name "python"
+Remove-Item -LiteralPath '.\Polarity Portable\' -Recurse
+Clear-History
+Get-History
