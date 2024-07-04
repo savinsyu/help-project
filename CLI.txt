@@ -5,3 +5,10 @@ Stop-Process -Name "python"
 Remove-Item -LiteralPath '.\Polarity Portable\' -Recurse
 Clear-History
 Get-History
+
+cd /p/s.savin/bash_scripts/ 
+cd /p/s.savin/flask-project-full/
+cd /p/s.savin/mysql-flask-project/
+cd /p/s.savin/help-project/
+cd /p/s.savin/python_scripts/
+cd /p/s.savin/draft/       
